@@ -6,7 +6,7 @@ It now includes projects and walkthroughs aligned with **AWS Certified Cloud Pra
 
 ---
 
-## 🧭 Who is this for?
+## 🛍️ Who is this for?
 - **Beginners** who want to start learning Linux and AWS tools
 - **Job seekers** pursuing cloud, DevOps, or IT support roles
 - **Students** or career changers exploring infrastructure
@@ -50,7 +50,7 @@ You'll learn how to:
 
 ## 🔧 How to Use This Repository
 1. **Download or clone the repo**
-2. Pick a folder you're interested in (start with `1_basic-linux-commands`)
+2. Pick a folder you're interested in (start with [`1_basic-linux-commands/`](./1_basic-linux-commands/))
 3. Open the `.sh` script or `.md` guide inside
 4. Read the comments and run the examples in your terminal or AWS CloudShell
 
@@ -60,45 +60,45 @@ Each script is explained line-by-line with real-life comparisons. Every subfolde
 
 ## 📂 Folder Overview
 
-| Folder                               | What it Covers                                      | Includes                        |
-|--------------------------------------|-----------------------------------------------------|----------------------------------|
-| [`1_basic-linux-commands/`](1_basic-linux-commands/)            | Navigate the Linux system like a file cabinet       | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`2_file-permissions/`](2_file-permissions/)                | Control access to files like door locks             | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`3_user-and-group-management/`](3_user-and-group-management/)       | Manage users like team members in an office         | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`4_file-searching-and-archiving/`](4_file-searching-and-archiving/)    | Find and compress files like digital organizers     | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`5_software-management/`](5_software-management/)             | Install tools like apps on your phone               | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`6_networking/`](6_networking/)                      | Check connections like testing WiFi or pinging sites| ✅ Quiz, Diagram, Exercise, Checklist |
-| [`7_aws-cli/`](7_aws-cli/)                         | AWS remote command line tools                       | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`8_aws-ec2/`](8_aws-ec2/)                         | Launch virtual machines in the cloud                | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`9_security-hardening/`](9_security-hardening/)              | Lock down servers using best practices              | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`10_iam-policies/`](10_iam-policies/)              | Create users, roles, and manage permissions         | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`11_vpc-basics/`](11_vpc-basics/)                  | Understand subnets, gateways, and routing tables    | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`12_infrastructure-as-code/`](12_infrastructure-as-code/) | Automate infrastructure with Terraform              | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`13_management-tools/`](13_management-tools/)     | Automate, monitor, and secure workloads using AWS Systems Manager, CloudWatch, CloudTrail | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`14_docker-basics/`](14_docker-basics/)           | Containerize apps for portability and isolation     | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`15_git-github/`](15_git-github/)                 | Track code history and collaborate in the cloud     | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`16_python/`](16_python/)                         | Automate tasks and write cloud scripts              | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`17_sql-basics/`](17_sql-basics/)                 | Query cloud databases using standard SQL            | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`18_elb-autoscaling/`](18_elb-autoscaling/)       | Add load balancing and auto-scaling to EC2 apps     | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`19_cloudwatch-alarms/`](19_cloudwatch-alarms/)   | Monitor systems with alarms and health checks       | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`20_efs-setup/`](20_efs-setup/)                   | Share file systems across multiple EC2 instances    | ✅ Quiz, Diagram, Exercise, Checklist |
+| Folder | What it Covers | Includes |
+|--------|----------------|----------|
+| [`1_basic-linux-commands/`](./1_basic-linux-commands/) | Navigate the Linux system like a file cabinet | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`2_file-permissions/`](./2_file-permissions/) | Control access to files like door locks | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`3_user-and-group-management/`](./3_user-and-group-management/) | Manage users like team members in an office | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`4_file-searching-and-archiving/`](./4_file-searching-and-archiving/) | Find and compress files like digital organizers | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`5_software-management/`](./5_software-management/) | Install tools like apps on your phone | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`6_networking/`](./6_networking/) | Check connections like testing WiFi or pinging sites | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`7_aws-cli/`](./7_aws-cli/) | AWS remote command line tools | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`8_aws-ec2/`](./8_aws-ec2/) | Launch virtual machines in the cloud | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`9_security-hardening/`](./9_security-hardening/) | Lock down servers using best practices | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`10_iam-policies/`](./10_iam-policies/) | Create users, roles, and manage permissions | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`11_vpc-basics/`](./11_vpc-basics/) | Understand subnets, gateways, and routing tables | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`12_infrastructure-as-code/`](./12_infrastructure-as-code/) | Automate infrastructure with Terraform | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`13_management-tools/`](./13_management-tools/) | Monitor and secure workloads (CloudWatch, SSM, CloudTrail) | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`14_docker-basics/`](./14_docker-basics/) | Containerize apps for portability and isolation | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`15_git-github/`](./15_git-github/) | Track code history and collaborate | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`16_python/`](./16_python/) | Automate tasks with cloud scripts | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`17_sql-basics/`](./17_sql-basics/) | Query cloud databases using SQL | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`18_elb-autoscaling/`](./18_elb-autoscaling/) | Add load balancing and auto-scaling | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`19_cloudwatch-alarms/`](./19_cloudwatch-alarms/) | Monitor systems with alarms | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`20_efs-setup/`](./20_efs-setup/) | Share file systems across EC2 instances | ✅ Quiz, Diagram, Exercise, Checklist |
 
 ---
 
 ## 🧪 Capstone Projects (Recommended for Exam Prep)
 
-| Project                                 | AWS Services Involved              | Skills Practiced                                        |
-|-----------------------------------------|------------------------------------|---------------------------------------------------------|
-| Host a Static Website on S3             | S3, IAM                            | Public access, buckets, policies                        |
-| Launch EC2 with NGINX & SSH             | EC2, VPC, Key Pairs                | Instance setup, security groups, bootstrap scripts     |
-| IAM User & Policy Simulation            | IAM                                | Least privilege, custom policies, MFA                  |
-| Budget and Free Tier Monitor            | Budgets, Cost Explorer             | Alerting, pricing models, billing dashboard            |
-| RDS Instance with EC2 Integration       | RDS, EC2, Security Groups          | Database setup, connection security                    |
-| Build a VPC with 2-tier architecture    | VPC, Subnets, EC2, RDS             | Network isolation, routing, architecture design        |
-| Automate EC2 + S3 with Terraform        | EC2, S3, Terraform CLI             | Infrastructure-as-code practice                        |
-| Patch EC2 with Systems Manager & Monitor Logs | Systems Manager, CloudWatch        | EC2 management, automation, log collection             |
-| Auto-Scale a Web App with ELB + ASG     | EC2, ASG, ELB, CloudWatch Alarms   | Elastic load balancing, high availability, alerts      |
-| Shared Storage Across EC2 Using EFS     | EC2, EFS, Security Groups          | Shared volumes, scalable file systems                  |
+| Project | AWS Services Involved | Skills Practiced |
+|---------|------------------------|------------------|
+| Host a Static Website on S3 | S3, IAM | Public access, buckets, policies |
+| Launch EC2 with NGINX & SSH | EC2, VPC, Key Pairs | Instance setup, security groups, bootstrap scripts |
+| IAM User & Policy Simulation | IAM | Least privilege, custom policies, MFA |
+| Budget and Free Tier Monitor | Budgets, Cost Explorer | Alerting, pricing models, billing dashboard |
+| RDS Instance with EC2 Integration | RDS, EC2, Security Groups | Database setup, connection security |
+| Build a VPC with 2-tier architecture | VPC, Subnets, EC2, RDS | Network isolation, routing, architecture design |
+| Automate EC2 + S3 with Terraform | EC2, S3, Terraform CLI | Infrastructure-as-code practice |
+| Patch EC2 with Systems Manager & Monitor Logs | SSM, CloudWatch | EC2 management, automation, log collection |
+| Auto-Scale a Web App with ELB + ASG | EC2, ASG, ELB, CloudWatch Alarms | Elastic load balancing, high availability, alerts |
+| Shared Storage Across EC2 Using EFS | EC2, EFS, Security Groups | Shared volumes, scalable file systems |
 
 Each project includes checklists and diagrams, and is mapped to AWS exam objectives.
 
