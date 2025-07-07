@@ -1,0 +1,3 @@
+# Getting Started with Linux and AWS for Beginners
+
+Welcome to this beginner‑friendly guide on learning Linux **and** AWS. This repository ...
