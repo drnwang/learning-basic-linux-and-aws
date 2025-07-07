@@ -79,7 +79,17 @@ Each module README includes:
 | [21_billing-and-costs](21_billing-and-costs/) | Budgets, Free Tier, pricing tools | ✅ Cheat‑sheet · Exercise |
 | [22_architecture-examples](22_architecture-examples/) | 2‑tier & 3‑tier AWS reference diagrams | ✅ Diagrams · Templates |
 | [23_exam-review-checklist](23_exam-review-checklist/) | Comprehensive CCP & SAA review list | ✅ Tracker · Links |
-
+| [23_exam-review-checklist](23_exam-review-checklist/) | Comprehensive CCP & SAA review list | ✅ Tracker · Links |
+| [24_lambda-functions](24_lambda-functions/) | Lambda, Serverless Application Repo basics | ✅ Quiz · Diagram · Exercise |
+| [25_containers](25_containers/) | ECS, Fargate, EKS, ECR | ✅ Quiz · Diagram · Exercise |
+| [26_elastic-beanstalk](26_elastic-beanstalk/) | Managed PaaS for web apps | ✅ Quick‑start guide · Checklist |
+| [27_databases](27_databases/) | Aurora, DynamoDB, Redshift, ElastiCache | ✅ Diagrams · Labs · Quiz |
+| [28_security-advanced](28_security-advanced/) | KMS, Cognito, Secrets Manager, Security Hub | ✅ Cheat‑sheet · Demo |
+| [29_cloudformation](29_cloudformation/) | CloudFormation templates & change sets | ✅ Hands‑on lab · Quiz |
+| [30_devtools-cicd](30_devtools-cicd/) | CodeCommit, CodeBuild, CodeDeploy, X‑Ray | ✅ Pipeline demo · Checklist |
+| [31_migration](31_migration/) | Database Migration Service basics | ✅ Quick lab |
+| [32_networking-advanced](32_networking-advanced/) | CloudFront, API Gateway, TGW, DX, PrivateLink | ✅ Diagrams · Labs |
+| [33_app-integration](33_app-integration/) | SQS, SNS, EventBridge, Step Functions | ✅ Quiz · Exercise |
 ---
 
 ## 🧪 Capstone Projects (highly recommended)
