@@ -1,5 +1,8 @@
-# Readme
+# Basic Linux Commands
 
-This is the structured content for **linux-fundamentals/01_basic-commands/README.md**.
+Learn how to navigate, list files, and manipulate directories.
 
-It includes explanations, walkthroughs, diagrams, quizzes, and real-world comparisons for AWS and Linux topics.
+- `ls`, `cd`, `mkdir`, `touch`
+
+## Exercise:
+List all files in `/home` then create a folder called `project`.

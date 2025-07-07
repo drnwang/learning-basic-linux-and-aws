@@ -1,5 +1,3 @@
-# Readme
+# Terraform Intro
 
-This is the structured content for **devops-tools/01_terraform/README.md**.
-
-It includes explanations, walkthroughs, diagrams, quizzes, and real-world comparisons for AWS and Linux topics.
+Write IaC with Terraform. Provision EC2 and VPC resources.

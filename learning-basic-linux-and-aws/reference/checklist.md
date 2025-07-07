@@ -1,5 +1,11 @@
-# Checklist
+# Study Checklist
 
-This is the structured content for **reference/checklist.md**.
-
-It includes explanations, walkthroughs, diagrams, quizzes, and real-world comparisons for AWS and Linux topics.
+✅ Basic Linux
+✅ IAM
+✅ EC2
+✅ VPC
+✅ Terraform
+✅ S3
+✅ CloudWatch
+✅ Git
+✅ Python

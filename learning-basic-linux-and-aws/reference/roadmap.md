@@ -1,5 +1,8 @@
-# Roadmap
+# Learning Roadmap
 
-This is the structured content for **reference/roadmap.md**.
-
-It includes explanations, walkthroughs, diagrams, quizzes, and real-world comparisons for AWS and Linux topics.
+1. Start with Linux basics
+2. Learn AWS IAM & EC2
+3. Practice VPC & S3
+4. Automate with Terraform
+5. Learn DevOps tools (Git, Docker, Python)
+6. Review quizzes & diagrams

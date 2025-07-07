@@ -1,5 +1,3 @@
-# Readme
+# System Info
 
-This is the structured content for **linux-fundamentals/07_system-info/README.md**.
-
-It includes explanations, walkthroughs, diagrams, quizzes, and real-world comparisons for AWS and Linux topics.
+Learn to check CPU, memory, disk usage with `top`, `free`, `df`, `uptime`.

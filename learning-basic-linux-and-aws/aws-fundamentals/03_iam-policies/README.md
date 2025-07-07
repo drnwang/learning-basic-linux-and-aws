@@ -1,5 +1,3 @@
-# Readme
+# IAM Policies
 
-This is the structured content for **aws-fundamentals/03_iam-policies/README.md**.
-
-It includes explanations, walkthroughs, diagrams, quizzes, and real-world comparisons for AWS and Linux topics.
+Manage users, roles, and permissions for secure access.

@@ -1,5 +1,3 @@
-# Readme
+# Python Scripting
 
-This is the structured content for **devops-tools/04_python/README.md**.
-
-It includes explanations, walkthroughs, diagrams, quizzes, and real-world comparisons for AWS and Linux topics.
+Automate AWS and system tasks with Python.

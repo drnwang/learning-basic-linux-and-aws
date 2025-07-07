@@ -1,5 +1,6 @@
-# Readme
+# Basic Networking
 
-This is the structured content for **linux-fundamentals/06_networking/README.md**.
+Use `ping`, `ifconfig`, `netstat`, `traceroute`.
 
-It includes explanations, walkthroughs, diagrams, quizzes, and real-world comparisons for AWS and Linux topics.
+## Troubleshooting:
+How would you diagnose network loss to a public DNS server?
