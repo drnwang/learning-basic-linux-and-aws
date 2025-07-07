@@ -56,9 +56,9 @@ Each module README includes:
 
 | Folder | What it Covers | Includes |
 |--------|----------------|----------|
-| [01_basic-linux-commands](01_basic-linux-commands/) | Navigate the Linux system like a file cabinet | ✅ Quiz · Diagram · Exercise · Checklist |
-| [02_file-permissions](02_file-permissions/) | Control access to files like door locks | ✅ Quiz · Diagram · Exercise · Checklist |
-| [03_user-and-group-management](03_user-and-group-management/) | Manage users like team members in an office | ✅ Quiz · Diagram · Exercise · Checklist |
+| [01_basic-linux-commands](01_basic-linux-commands/01_basic-linux-commands.md) | Navigate the Linux system like a file cabinet | ✅ Quiz · Diagram · Exercise · Checklist |
+| [02_file-permissions](02_file-permissions/02_file-permissions.md) | Control access to files like door locks | ✅ Quiz · Diagram · Exercise · Checklist |
+| [03_user-and-group-management](03_user-and-group-management/03_user-and-group-management.md) | Manage users like team members in an office | ✅ Quiz · Diagram · Exercise · Checklist |
 | [04_file-searching-and-archiving](04_file-searching-and-archiving/) | Find & compress files like digital organizers | ✅ Quiz · Diagram · Exercise · Checklist |
 | [05_software-management](05_software-management/) | Install & update packages | ✅ Quiz · Diagram · Exercise · Checklist |
 | [06_networking](06_networking/) | Check connectivity (ping, curl) | ✅ Quiz · Diagram · Exercise · Checklist |
