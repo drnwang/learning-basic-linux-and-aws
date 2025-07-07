@@ -62,7 +62,7 @@ Each script is explained line-by-line with real-life comparisons. Every subfolde
 
 | Folder | What it Covers | Includes |
 |--------|----------------|----------|
-| [`1_basic-linux-commands/`](./1_basic-linux-commands/) | Navigate the Linux system like a file cabinet | ✅ Quiz, Diagram, Exercise, Checklist |
+| [`1_basic-linux-commands/`](../1_basic-linux-commands/) | Navigate the Linux system like a file cabinet | ✅ Quiz, Diagram, Exercise, Checklist |
 | [`2_file-permissions/`](./2_file-permissions/) | Control access to files like door locks | ✅ Quiz, Diagram, Exercise, Checklist |
 | [`3_user-and-group-management/`](./3_user-and-group-management/) | Manage users like team members in an office | ✅ Quiz, Diagram, Exercise, Checklist |
 | [`4_file-searching-and-archiving/`](./4_file-searching-and-archiving/) | Find and compress files like digital organizers | ✅ Quiz, Diagram, Exercise, Checklist |
