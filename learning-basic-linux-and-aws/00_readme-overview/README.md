@@ -60,25 +60,29 @@ Each script is explained line-by-line with real-life comparisons. Every subfolde
 
 ## 📂 Folder Overview
 
-| Folder                               | What it Covers                                      | Includes                        |
-|--------------------------------------|-----------------------------------------------------|----------------------------------|
-| [`basic-commands`](../linux-fundamentals/01_basic-commands/)            | Navigate the Linux system like a file cabinet       | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`file-permissions`](../linux-fundamentals/02_file-permissions/)                | Control access to files like door locks             | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`user-group-management`](../linux-fundamentals/03_user-group-management/)       | Manage users like team members in an office         | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`file-searching`](../linux-fundamentals/04_file-searching/)    | Find and compress files like digital organizers     | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`software-management`](../linux-fundamentals/05_software-management/)             | Install tools like apps on your phone               | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`networking`](../linux-fundamentals/06_networking/)                      | Check connections like testing WiFi or pinging sites| ✅ Quiz, Diagram, Exercise, Checklist |
-| [`ec2-setup`](../aws-fundamentals/02_ec2-setup/)                         | Launch virtual machines in the cloud                | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`iam-policies`](../aws-fundamentals/03_iam-policies/)              | Create users, roles, and manage permissions         | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`vpc-basics`](../aws-fundamentals/01_vpc-basics/)                  | Understand subnets, gateways, and routing tables    | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`terraform`](../devops-tools/01_terraform/) | Automate infrastructure with Terraform              | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`docker`](../devops-tools/03_docker/)           | Containerize apps for portability and isolation     | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`git-github`](../devops-tools/02_git-github/)                 | Track code history and collaborate in the cloud     | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`python`](../devops-tools/04_python/)                         | Automate tasks and write cloud scripts              | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`sql`](../devops-tools/05_sql/)                 | Query cloud databases using standard SQL            | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`cloudwatch`](../aws-fundamentals/04_cloudwatch/)   | Monitor systems with alarms and health checks       | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`s3-storage`](../aws-fundamentals/06_s3-storage/)                   | Share file systems across multiple EC2 instances    | ✅ Quiz, Diagram, Exercise, Checklist |
-| [`elb-autoscaling`](../aws-fundamentals/05_elb-autoscaling/)       | Add load balancing and auto-scaling to EC2 apps     | ✅ Quiz, Diagram, Exercise, Checklist |
+| Folder | What it Covers | Includes |
+|--------|----------------|----------|
+| [1_basic-linux-commands](../linux-fundamentals/01_basic-commands) | Navigate the Linux system like a file cabinet | ✅ Quiz, Diagram, Exercise, Checklist |
+| [2_file-permissions](../linux-fundamentals/02_file-permissions) | Control access to files like door locks | ✅ Quiz, Diagram, Exercise, Checklist |
+| [3_user-and-group-management](../linux-fundamentals/03_user-group-management) | Manage users like team members in an office | ✅ Quiz, Diagram, Exercise, Checklist |
+| [4_file-searching-and-archiving](../linux-fundamentals/04_file-searching) | Find and compress files like digital organizers | ✅ Quiz, Diagram, Exercise, Checklist |
+| [5_software-management](../linux-fundamentals/05_software-management) | Install tools like apps on your phone | ✅ Quiz, Diagram, Exercise, Checklist |
+| [6_networking](../linux-fundamentals/06_networking) | Check connections like testing WiFi or pinging sites | ✅ Quiz, Diagram, Exercise, Checklist |
+| [7_aws-cli](../aws-fundamentals/07_aws-cli) | AWS remote command line tools | ✅ Quiz, Diagram, Exercise, Checklist |
+| [8_aws-ec2](../aws-fundamentals/02_ec2-setup) | Launch virtual machines in the cloud | ✅ Quiz, Diagram, Exercise, Checklist |
+| [9_security-hardening](../linux-fundamentals/09_security-hardening) | Lock down servers using best practices | ✅ Quiz, Diagram, Exercise, Checklist |
+| [10_iam-policies](../aws-fundamentals/03_iam-policies) | Create users, roles, and manage permissions | ✅ Quiz, Diagram, Exercise, Checklist |
+| [11_vpc-basics](../aws-fundamentals/01_vpc-basics) | Understand subnets, gateways, and routing tables | ✅ Quiz, Diagram, Exercise, Checklist |
+| [12_infrastructure-as-code](../devops-tools/01_terraform) | Automate infrastructure with Terraform | ✅ Quiz, Diagram, Exercise, Checklist |
+| [13_management-tools](../aws-fundamentals/04_cloudwatch) | Automate, monitor, and secure workloads | ✅ Quiz, Diagram, Exercise, Checklist |
+| [14_docker-basics](../devops-tools/03_docker) | Containerize apps for portability and isolation | ✅ Quiz, Diagram, Exercise, Checklist |
+| [15_git-github](../devops-tools/02_git-github) | Track code history and collaborate in the cloud | ✅ Quiz, Diagram, Exercise, Checklist |
+| [16_python](../devops-tools/04_python) | Automate tasks and write cloud scripts | ✅ Quiz, Diagram, Exercise, Checklist |
+| [17_sql-basics](../devops-tools/05_sql) | Query cloud databases using standard SQL | ✅ Quiz, Diagram, Exercise, Checklist |
+| [18_elb-autoscaling](../aws-fundamentals/05_elb-autoscaling) | Add load balancing and auto-scaling to EC2 apps | ✅ Quiz, Diagram, Exercise, Checklist |
+| [19_cloudwatch-alarms](../aws-fundamentals/04_cloudwatch) | Monitor systems with alarms and health checks | ✅ Quiz, Diagram, Exercise, Checklist |
+| [20_efs-setup](../aws-fundamentals/06_s3-storage) | Share file systems across multiple EC2 instances | ✅ Quiz, Diagram, Exercise, Checklist |
+
 
 ---
 
